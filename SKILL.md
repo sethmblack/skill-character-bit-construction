@@ -3,7 +3,7 @@ name: character-bit-construction
 description: Develop recognizable character types from observational details, creating embodied characters with distinct voice, perspective, and internal logic rather than described types.
 license: MIT
 metadata:
-  version: 1.0.3562
+  version: 1.0.3563
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
